@@ -1,0 +1,4 @@
+Name         = My Level Scaling
+Version      = 1.1
+Essentials   = 20, 20.1
+Credits      = Grogro (tutorial), Benitex, Joltik, Umbreon (Evolution script), Arcky (Tester)

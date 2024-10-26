@@ -1,0 +1,6 @@
+#-------------------------------
+[BOSSBATTLES]
+Immunities         = FREEZE,ATTRACT,DESTINYBOND,OHKO,PERISHSONG
+#-------------------------------
+[RANDOMIZER]
+ItemExclusions     = HM01,HM02,HM03,HM04,HM05,HM06

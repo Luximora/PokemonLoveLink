@@ -1,0 +1,29 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[0]
+StartMoney = 3000
+StartItemStorage = POTION
+Home = 3,7,5,8
+StorageCreator = Bill
+WildBattleBGM = BW 114 Battle! (Wild Pokemon)
+TrainerBattleBGM = BW 126 Battle! (Trainer Battle)
+WildVictoryBGM = BW 115 Victory! (Wild Pokemon)
+TrainerVictoryBGM = BW 127 Victory! (Trainer Battle)
+SurfBGM = Surfing
+BicycleBGM = Bicycle
+#-------------------------------
+[1]
+TrainerType = POKEMONTRAINER_Red
+WalkCharset = trProtag_boyWalk
+RunCharset = trProtag_boyRun
+CycleCharset = trProtag_boyBike
+SurfCharset = trProtag_boySurf
+FishCharset = trProtag_boyFish
+#-------------------------------
+[2]
+TrainerType = POKEMONTRAINER_Leaf
+WalkCharset = trProtag_boyWalk
+RunCharset = trProtag_boyRun
+CycleCharset = trProtag_boyBike
+SurfCharset = trProtag_boySurf
+FishCharset = trProtag_boyFish

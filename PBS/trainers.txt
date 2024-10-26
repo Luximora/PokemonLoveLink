@@ -1,0 +1,329 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[WILLOW,Willow]
+LoseText = Darn it!
+Pokemon = SPRIGATITO,5
+#-------------------------------
+[WILLOW,Willow,1]
+LoseText = Darn it!
+Pokemon = FENNEKIN,5
+#-------------------------------
+[WILLOW,Willow,2]
+LoseText = Darn it!
+Pokemon = POPPLIO,5
+#-------------------------------
+[LARA,Lara]
+LoseText = Tch...
+Pokemon = SPRIGATITO,5
+#-------------------------------
+[LARA,Lara,1]
+LoseText = Tch...
+Pokemon = FENNEKIN,5
+#-------------------------------
+[LARA,Lara,2]
+LoseText = Tch...
+Pokemon = POPPLIO,5
+#-------------------------------
+[YOUNGSTER,Liam]
+LoseText = Darn.
+Pokemon = DIGLETT,10
+Pokemon = BONSLY,11
+#-------------------------------
+[MINER,Bill]
+LoseText = Looks like I need to dig deeper for victory.
+Pokemon = DRILBUR,5
+Pokemon = GEODUDE,6
+#-------------------------------
+[MINER,Tom]
+LoseText = Guess I need to train more than just my muscles.
+Pokemon = DIGLETT,9
+#-------------------------------
+[SCIENTIST_M,Ray]
+LoseText = Data shows... you're quite skilled!
+Pokemon = MAGNEMITE,8
+#-------------------------------
+[HIKER,Hank]
+LoseText = Gosh darn it, damn this cave!
+Pokemon = ZUBAT,6
+Pokémon = WINGULL = 5
+#-------------------------------
+[HIKER,Jeht]
+LoseText = Looks like I've hit a dead end!
+Pokemon = ZUBAT,8
+#-------------------------------
+[HIKER,Rick]
+LoseText = Guess I need to dig deeper next time.
+Pokemon = DRILBUR,5
+Pokemon = GLIGAR,8
+#-------------------------------
+[BLACKBELT,Chris]
+LoseText = Whoa, you're tougher than the rocks around here!
+Pokemon = MANKEY,4
+Pokemon = MACHOP,5
+#-------------------------------
+[BACKERS_F,Dorthy and Candy]
+LoseText = Whoa, not bad!
+Pokemon = BUNEARY,5
+Pokemon = EEVEE,5
+Pokemon = TOGEPI,5
+Pokemon = RALTS,5
+#-------------------------------
+[CLERK_M,Bling]
+LoseText = Here's your reward!
+Pokemon = MEOWTH,5
+Pokemon = KLEFKI,5
+Pokemon = SABLEYE,5
+Pokemon = MURKROW,5
+Pokemon = GASTLY,5
+Pokemon = ABRA,5
+#-------------------------------
+[MAID,Canary]
+LoseText = Here's your reward!
+Pokemon = CHANSEY,5
+Pokemon = AUDINO,5
+Pokemon = MAGIKARP,5
+Pokemon = DELIBIRD,5
+Pokemon = BELDUM,5
+Pokemon = TOGEPI,5
+#-------------------------------
+[LEADER_Roxanne,Roxanne,1]
+BattleVS = classicVS
+LoseText = What an enlightening battle! Your skills are truly solid as a rock. You've earned this Stone Badge. May it be the foundation of your future success!
+Pokemon = GROWLITHE,10
+    Form = 1
+    Moves = FLAREBLITZ,HEADSMASH,PSYCHICFANGS,ROCKBLAST
+    AbilityIndex = 2
+    Item = CHOICESCARF
+    IV = 10,10,10,10,10,10
+Pokemon = NOSEPASS,10
+    Moves = ROCKTOMB,THUNDERWAVE,VOLTSWITCH,STEALTHROCK
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    IV = 10,10,10,10,10,10
+    Ball = HEAVYBALL
+Pokemon = TIRTOUGA,10
+    Moves = AQUAJET,DIG,WITHDRAW
+    AbilityIndex = 1
+    Item = WEAKNESSPOLICY
+    IV = 10,10,10,10,10,10
+#-------------------------------
+[LEADER_Roxanne,Roxanne,2]
+BattleVS = classicVS
+LoseText = What an enlightening battle! Your skills are truly solid as a rock. You've earned this Stone Badge. May it be the foundation of your future success!
+Pokemon = GROWLITHE,20
+    Form = 1
+    Moves = FLAREBLITZ,HEADSMASH,PSYCHICFANGS,ROCKBLAST
+    AbilityIndex = 2
+    Item = CHOICESCARF
+    IV = 20,20,20,20,20,20
+Pokemon = NOSEPASS,20
+    Moves = ROCKTOMB,THUNDERWAVE,VOLTSWITCH,STEALTHROCK
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+    Ball = HEAVYBALL
+Pokemon = LILEEP,20
+    Moves = MEGADRAIN,ACID,ASTONISH,PROTECT
+    AbilityIndex = 2
+    Item = LEFTOVERS
+    IV = 20,20,20,20,20,20
+Pokemon = TIRTOUGA,20
+    Moves = AQUAJET,DIG,WITHDRAW
+    AbilityIndex = 1
+    Item = WEAKNESSPOLICY
+    IV = 20,20,20,20,20,20
+#-------------------------------
+[LEADER_Roxanne,Roxanne,3]
+BattleVS = classicVS
+LoseText = What an enlightening battle! Your skills are truly solid as a rock. You've earned this Stone Badge. May it be the foundation of your future success!
+Pokemon = LARVITAR,30
+    Moves = BITE,SANDSTORM,BULLDOZE,STEALTHROCK
+    AbilityIndex = 2
+    Item = LEFTOVERS
+    IV = 20,20,20,20,20,20
+Pokemon = GROWLITHE,30
+    Form = 1
+    Moves = FLAREBLITZ,HEADSMASH,PSYCHICFANGS,ROCKBLAST
+    AbilityIndex = 2
+    Item = CHOICESCARF
+    IV = 20,20,20,20,20,20
+Pokemon = NOSEPASS,30
+    Moves = ROCKTOMB,THUNDERWAVE,VOLTSWITCH,STEALTHROCK
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+    Ball = HEAVYBALL
+Pokemon = LILEEP,30
+    Moves = MEGADRAIN,ACID,ASTONISH,PROTECT
+    AbilityIndex = 2
+    Item = LEFTOVERS
+    IV = 20,20,20,20,20,20
+Pokemon = TIRTOUGA,30
+    Moves = AQUAJET,DIG,WITHDRAW
+    AbilityIndex = 1
+    Item = WEAKNESSPOLICY
+    IV = 20,20,20,20,20,20
+#-------------------------------
+[LASS,Star Student Ann]
+LoseText = I... I lost? But Roxanne trusted me! I need to train harder!
+Pokemon = ARON,10
+    Moves = ROCKPOLISH,HEADSMASH,IRONHEAD,EARTHQUAKE
+#-------------------------------
+[LASS,Diane]
+LoseText = That was educational! My Pokémon and I learned a lot from you.
+Pokemon = BONSLY,6
+    Moves = STEALTHROCK,SUCKERPUNCH,ROCKSLIDE,STOMPINGTANTRUM
+#-------------------------------
+[YOUNGSTER,Richard]
+LoseText = Wow! My old man's Pokémon isn't as unbeatable as I thought.
+Pokemon = ROCKRUFF,8
+#-------------------------------
+[YOUNGSTER,Jhonny]
+LoseText = And that's a wrap, good job all around!
+Pokemon = MUDKIP,9
+#-------------------------------
+[LASS,Clara]
+LoseText = Aww, my poor Rockruff! Don't worry, you're still the cutest to me!
+Pokemon = ROCKRUFF,9
+    Moves = ZENHEADBUTT,STOMPINGTANTRUM,ROCKSLIDE,SUCKERPUNCH
+#-------------------------------
+[YOUNGSTER,Steve]
+LoseText = Game over for me! But like in video games, I'll just try again!
+Pokemon = NACLI,5
+    Moves = PROTECT,SUBSTITUTE,DIG,IRONHEAD
+#-------------------------------
+[YOUNGSTER,Brad]
+LoseText = Whoa! Trainers here are tough! I've got a lot to learn about this region!
+Pokemon = GEODUDE,7
+    Form = 1
+#-------------------------------
+[YOUNGSTER,Theo]
+LoseText = Your earthly tactics were too much for my space Pokémon!
+Pokemon = MINIOR,5
+#-------------------------------
+[YOUNGSTER,Erin]
+LoseText = Looks like I got burned! You're the real hot stuff around here.
+Pokemon = MAGCARGO,5
+#-------------------------------
+[YOUNGSTER,Keython]
+LoseText = Welp, fair is fair, collect your prize.
+Pokemon = TYRUNT,8
+    Moves = ROCKTOMB,DRAGONTAIL,ROCKSLIDE,BRICKBREAK
+#-------------------------------
+[LASS,Sharol]
+LoseText = That... was kinda fun?
+Pokemon = LUNATONE,8
+#-------------------------------
+[LASS,Roxy]
+LoseText = I... I need to rethink my strategies. Back to the drawing board!
+Pokemon = GEODUDE,8
+    Moves = EXPLOSION,STEALTHROCK,HARDEN
+#-------------------------------
+[LASS,Riely]
+LoseText = My Pokémon may look nerdy, but it's not weak I swear!
+Pokemon = ANORITH,5
+    Moves = RAPIDSPIN,KNOCKOFF,ROCKBLAST
+#-------------------------------
+[LASS,Cory]
+LoseText = I got totally washed out!
+Pokemon = CORSOLA,5
+    Moves = SCALD,TOXIC,RECOVER
+#-------------------------------
+[NURSE,Helen]
+LoseText = Hehe, looks like I’m the one who needs help now!
+Pokemon = SHUCKLE,8
+    Moves = WITHDRAW,STRUGGLEBUG,ROCKTHROW,STICKYWEB
+#-------------------------------
+[LASS,Emily]
+LoseText = Darn! I got schooled...
+Pokemon = DEERLING,4
+#-------------------------------
+[LASS,Sophie]
+LoseText = Oh, you’re stronger than you look!
+Pokemon = DEERLING,4
+Pokemon = DIGLETT,4
+Pokemon = LITLEO,4
+#-------------------------------
+[YOUNGSTER,Joseph]
+LoseText = You ended that in a blink of an eye.
+Pokemon = BIDOOF,5
+#-------------------------------
+[HIKER,Tom]
+LoseText = Dammit! I just lost to some red head kid too! I SUCK!
+Pokemon = LITLEO,7
+#-------------------------------
+[YOUNGSTER,Tim]
+LoseText = Speed isn't everything, I guess...
+Pokemon = COTTONEE,4
+Pokemon = YANMA,5
+#-------------------------------
+[YOUNGSTER,Jake]
+LoseText = I guess they weren’t strong enough yet.
+Pokemon = SEWADDLE,4
+Pokemon = LITLEO,4
+#-------------------------------
+[HIKER,Hanz]
+LoseText = I'm blasting oooooofff...
+Pokemon = SEWADDLE,8
+Pokemon = LITLEO,8
+#-------------------------------
+[LASS,Mia]
+LoseText = Eek! Your scarier than caves!
+Pokemon = DRILBUR,7
+#-------------------------------
+[PLASMAGRUNT_F2,Janet and Cinna]
+LoseText = Damn it! How'd we lose to these kids!
+Pokemon = POOCHYENA,4
+    Form = 1
+Pokemon = SALANDIT,4
+    Gender = female
+#-------------------------------
+[PLASMAGRUNT_F,Milo]
+LoseText = Damn it! How'd we lose to these kids!
+Pokemon = SCRAFTY,4
+    Gender = female
+Pokemon = ZUBAT,5
+    Gender = female
+#-------------------------------
+[LEADER_Brock,Brock]
+Items = FULLRESTORE,FULLRESTORE
+LoseText = Very good.
+Pokemon = GEODUDE,12
+    Moves = DEFENSECURL,HEADSMASH,ROCKPOLISH,ROCKTHROW
+    AbilityIndex = 0
+    Gender = male
+    IV = 20,20,20,20,20,20
+Pokemon = ONIX,14
+    Name = Rocky
+    Moves = HEADSMASH,ROCKTHROW,RAGE,ROCKTOMB
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    Gender = male
+    IV = 20,20,20,20,20,20
+    Shiny = true
+    Ball = HEAVYBALL
+#-------------------------------
+[YOUNGSTER,Ben]
+LoseText = Darn it, my new catches suck!.
+Pokemon = RATTATA,4
+#-------------------------------
+[YOUNGSTER,Jake]
+LoseText = ...
+Pokemon = BIDOOF,4
+#-------------------------------
+[LASS,Dhelila]
+LoseText = Wha- Your to strong for my cute pokemon!
+Pokemon = SKITTY,4
+#-------------------------------
+[LASS,Alice]
+LoseText = Wait a minute! Your not a pokemon at alL!
+Pokemon = SEWADDLE,4
+#-------------------------------
+[CHAMPION,Blue]
+LoseText = A good battle indeed!
+Pokemon = VENUSAUR,63
+    Item = SITRUSBERRY
+Pokemon = CHARIZARD,63
+    Item = SITRUSBERRY
+Pokemon = BLASTOISE,63
+    Item = SITRUSBERRY
